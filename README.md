@@ -20,4 +20,4 @@
 5. It's already put bootstrap, font-awesome and jQuery library in package folder and import in index.html
 
 ## Summary
-> Now you can start your project !  
+> Now you can easy and fast to start your project !  
